@@ -3,3 +3,7 @@ h1{
     text-decoration: double;
     color: blue;
 }
+
+body{
+	background-color: red;
+}
